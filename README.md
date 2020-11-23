@@ -1,0 +1,1 @@
+# auravant-hackaton2020-satellite-imagery-webinar
