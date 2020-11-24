@@ -11,3 +11,5 @@ El código original se encuentra [aquí](https://code.earthengine.google.com/?ac
     git clone https://earthengine.googlesource.com/users/marengobrn/auravant
 
 * Recordar que es necesario darse de alta en [Google Earth Engine](https://earthengine.google.com/) para poder correr el código o acceder a él.
+
+Por otro lado, [AWS](https://registry.opendata.aws/) dispone de múltiples datasets, incluyendo imágenes satelitales.
